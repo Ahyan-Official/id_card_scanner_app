@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "id_card_scanner_app"
